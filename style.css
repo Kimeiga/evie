@@ -98,3 +98,23 @@ a {
     color: white;
     text-decoration: none;
 }
+
+.new-arrivals img{
+    height: 700px;
+    width: 100%;
+}
+
+.item-new-arrivals h2 {
+    text-align: center;
+}
+
+.item-new-arrivals img{ 
+    display: flex;
+    gap: 20px;
+}
+
+div .item-new-arrivals img{
+    display: flex;
+}
+
+
